@@ -4,9 +4,17 @@
 
 ### 📊 Status Panel
 
-```text
-Name:               Junghwan Ro
-Occupation:         Robotics Challenger
-Specialization:     Control Systems
-Current Project:    Making robots dance to K-pop
-Coffee Cups Today:  ☕☕☕
+```plaintext
+╔═══════════════════════════════════╗
+║ Junghwan Ro's Robotics Dashboard  ║
+╠═══════════════════════════════════╣
+║ Name:               Junghwan Ro   ║
+║ Occupation:         Robotics      ║
+║                   Challenger      ║
+║ Specialization:     Control       ║
+║                   Systems         ║
+║ Current Project:    Making robots ║
+║                   dance to K-pop  ║
+║ Coffee Cups Today:  ☕☕☕          ║
+╚═══════════════════════════════════╝
+
