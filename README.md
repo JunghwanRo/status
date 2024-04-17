@@ -10,7 +10,7 @@
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Name            : Junghwan Ro                                                        ║
 ║ Class           : Robotics Challenger                                                ║
-║ Clan            : REAM Lab, Georgia Institute of Techonology                         ║
+║ Clan            : DREAM Lab, Georgia Institute of Techonology                        ║
 ║ Specialization  : Control                                                            ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                      ║
