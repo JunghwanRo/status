@@ -26,17 +26,18 @@ Dedicated Hours = Dedicated hours to robotics after status established (April 17
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
 ║                                      Quest Panel                                     ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
-║ Main Quests                                                                          ║
-║ 1. Develop self-learning algorithms for robotic movements.                           ║
-║ 2. Complete the robotics control system upgrade by Q3 2024.                          ║
+║ 🎯 Main Quests                                                                       ║
+║ ·                                                                                    ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
-║ Side Quests                                                                          ║
-║ 1. Organize monthly robotics workshops for local students.                           ║
-║ 2. Document the design process for the latest robotic arm.                           ║
+║ 🛡️ Side Quests                                                                       ║
+║ ·                                                                                    ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
-║ ⏳ Priority Quests                                                                      ║
-║ 1. Finalize the presentation for the upcoming international robotics conference.     ║
-║ 2. Submit the patent application for the new robotic sensory system.                 ║
+║ ⏳ Priority Quests                                                                   ║
+║ ·                                                                                    ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 .
+<details>
+<summary> Completed Quests </summary>
+</details>  
+
