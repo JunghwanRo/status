@@ -8,10 +8,10 @@
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
 ║                              Junghwan Ro's Status Panel                              ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
-║ Name           :           Junghwan Ro                                               ║
-║ Class          :           Robotics Challenger                                       ║
-║ Clan           :           DREAM Lab, Georgia Institute of Techonology               ║
-║ Specialization :           Control                                                   ║
+║ Name           : Junghwan Ro                                                         ║
+║ Class          : Robotics Challenger                                                 ║
+║ Clan           : REAM Lab, Georgia Institute of Techonology                          ║
+║ Specialization : Control                                                             ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
