@@ -28,7 +28,7 @@ Useful Letters...
 ║ Dedicated Hours : 0                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
  
-Dedicated Hours = Dedicated hours to robotics after status established (April 17th, 2024)
+Dedicated Hours = Dedicated hours to robotics after status established
 ```
 .
 ### 🛡️ Quest Panel
