@@ -48,7 +48,9 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║ 🎯 Side Quests                                                                       ║
 ║ · Climate Robotics Summit                                                            ║
 ║ · Blue Print get signed/submit                                                       ║
-║                                                                                      ║
+║ · Initial Literature Review                                                          ║
+║ · Software Framework Selection                                                       ║
+║ · Modeling Approaches for Joints and Thruster Vectoring                              ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 📆 Weekly Quests                                                                     ║
