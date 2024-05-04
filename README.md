@@ -51,6 +51,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║ · Initial Literature Review                                                          ║
 ║ · Software Framework Selection                                                       ║
 ║ · Modeling Approaches for Joints and Thruster Vectoring                              ║
+║ · CIS5210 Module 1                                                                   ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 📆 Weekly Quests                                                                     ║
