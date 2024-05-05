@@ -69,7 +69,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║ · Read all guide docs for ERL                                                        ║
 ║ · Climate Robotics Summit                                                            ║
 ║ · Initial Literature Review                                                          ║
-║ · CIS5210 Module 1                                                                   ║
+║ · CIS5210 (Artificial Intelligence) Module 1                                         ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
  ```
 </details>  
