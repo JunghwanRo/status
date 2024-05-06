@@ -47,9 +47,9 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 🎯 Side Quests                                                                       ║
-║ · Blue Print get signed/submit                                                       ║
 ║ · Software Framework Selection                                                       ║
 ║ · Modeling Approaches for Joints and Thruster Vectoring                              ║
+║ · The Role of Robotics Simulators for Unmanned Aerial Vehicles - ICRA 2023 workshop  ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 📆 Weekly Quests                                                                     ║
@@ -71,6 +71,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║ · Climate Robotics Summit                                                            ║
 ║ · Initial Literature Review                                                          ║
 ║ · CIS5210 (Artificial Intelligence) Module 1                                         ║
+║ · Blue Print get signed/submit                                                       ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
  ```
 </details>  
