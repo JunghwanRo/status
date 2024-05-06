@@ -56,7 +56,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║ · Weekly Update Meeting                                                              ║
 ║ 🔅 Daily Quests                                                                      ║
 ║ · At least one literature review                                                     ║
-║ · 5m Meditation (Morning: Planning, Evening: Review)                                 ║
+║ · 5 minutes Meditation (Morning: Planning, Evening: Review)                          ║
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 
