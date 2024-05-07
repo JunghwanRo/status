@@ -49,7 +49,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║ 🎯 Side Quests                                                                       ║
 ║ · Software Framework Selection                                                       ║
 ║ · Modeling Approaches for Joints and Thruster Vectoring                              ║
-║ · The Role of Robotics Simulators for Unmanned Aerial Vehicles - ICRA 2023 workshop  ║
+║ · CIS5210 (Artificial Intelligence) Module 2                                         ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 📆 Weekly Quests                                                                     ║
@@ -72,6 +72,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║ · Initial Literature Review                                                          ║
 ║ · CIS5210 (Artificial Intelligence) Module 1                                         ║
 ║ · Blue Print get signed/submit                                                       ║
+║ · The Role of Robotics Simulators for Unmanned Aerial Vehicles - ICRA 2023 workshop  ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
  ```
 </details>  
