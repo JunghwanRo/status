@@ -51,6 +51,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║ · Software Framework Selection                                                       ║
 ║ · Modeling Approaches for Joints and Thruster Vectoring                              ║
 ║ · CIS5210 (Artificial Intelligence) Module 2                                         ║
+║ · Lie theory for the roboticist                                                      ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 📆 Weekly Quests                                                                     ║
