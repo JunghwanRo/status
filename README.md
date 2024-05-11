@@ -62,8 +62,6 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Today's Quests                                                                       ║
-║ · Check Pegasus Framework                                                            ║
-║ · Run RotorS on Ubuntu 18.04                                                         ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 
 ```
@@ -79,6 +77,8 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║ · CIS5210 (Artificial Intelligence) Module 1                                         ║
 ║ · Blue Print get signed/submit                                                       ║
 ║ · The Role of Robotics Simulators for Unmanned Aerial Vehicles - ICRA 2023 workshop  ║
+║ · Check Pegasus Framework                                                            ║
+║ · Run RotorS on Ubuntu 18.04                                                         ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
  ```
 </details>  
