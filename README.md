@@ -45,12 +45,12 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║ ⏳ Priority Quests                                                                   ║
 ║ · Finish Aerial Robot Course (UPenn), Week 2 done                                    ║
 ║ · Read Bucki's PhD Thesis                                                            ║
+║ · CIS5210 (Artificial Intelligence) Module 2                                         ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 🎯 Side Quests                                                                       ║
 ║ · Software Framework Selection                                                       ║
 ║ · Modeling Approaches for Joints and Thruster Vectoring                              ║
-║ · CIS5210 (Artificial Intelligence) Module 2                                         ║
 ║ · Lie theory for the roboticist                                                      ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
