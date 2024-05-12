@@ -45,7 +45,6 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║ ⏳ Priority Quests                                                                   ║
 ║ · Finish Aerial Robot Course (UPenn), Week 2 done                                    ║
 ║ · Read Bucki's PhD Thesis                                                            ║
-║ · CIS5210 (Artificial Intelligence) Module 2                                         ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 🎯 Side Quests                                                                       ║
@@ -79,6 +78,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║ · The Role of Robotics Simulators for Unmanned Aerial Vehicles - ICRA 2023 workshop  ║
 ║ · Check Pegasus Framework                                                            ║
 ║ · Run RotorS on Ubuntu 18.04                                                         ║
+║ · CIS5210 (Artificial Intelligence) Module 2                                         ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
  ```
 </details>  
