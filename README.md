@@ -43,7 +43,6 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ ⏳ Priority Quests                                                                   ║
-║ · Finish Aerial Robot Course (UPenn), Week 2 done                                    ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 🎯 Side Quests                                                                       ║
@@ -72,6 +71,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
  
 ```plaintext
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
+║ · Finish Aerial Robot Course (UPenn)                                                 ║
 ║ · Review Aerial Robotics Final Project                                               ║
 ║ · Read all guide docs for ERL                                                        ║
 ║ · Climate Robotics Summit                                                            ║
