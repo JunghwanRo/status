@@ -60,7 +60,6 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Today's Quests                                                                       ║
-║ · Review Aerial Robotics Final Project                                               ║
 ║ · Read Geometric tracking control of a quadrotor UAV on SE(3)                        ║
 ║ · Read Bucki's PhD Thesis                                                            ║
 ║ · Draw a Gantt Chart                                                                 ║
@@ -73,6 +72,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
  
 ```plaintext
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
+║ · Review Aerial Robotics Final Project                                               ║
 ║ · Read all guide docs for ERL                                                        ║
 ║ · Climate Robotics Summit                                                            ║
 ║ · Initial Literature Review                                                          ║
