@@ -61,7 +61,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Today's Quests                                                                       ║
 ║ · Review Aerial Robotics Final Project                                               ║
-║ · Geometric tracking control of a quadrotor UAV on SE(3)                             ║
+║ · Read Geometric tracking control of a quadrotor UAV on SE(3)                        ║
 ║ · Read Bucki's PhD Thesis                                                            ║
 ║ · Draw a Gantt Chart                                                                 ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
