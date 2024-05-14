@@ -61,7 +61,6 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Today's Quests                                                                       ║
 ║ · Read Bucki's PhD Thesis                                                            ║
-║ · Draw a Gantt Chart                                                                 ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 
 ```
@@ -71,6 +70,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
  
 ```plaintext
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
+║ · Draw a Gantt Chart for Master's Project                                            ║
 ║ · Read Geometric tracking control of a quadrotor UAV on SE(3)                        ║
 ║ · Finish Aerial Robot Course (UPenn)                                                 ║
 ║ · Review Aerial Robotics Final Project                                               ║
