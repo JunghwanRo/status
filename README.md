@@ -44,13 +44,14 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ ⏳ Priority Quests                                                                   ║
 ║ · Overleaf Outline                                                                   ║
-║ · Spring github check                                                                ║
+║ · Read Bucki's PhD Thesis                                                            ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 🎯 Side Quests                                                                       ║
 ║ · Software Framework Selection                                                       ║
 ║ · Modeling Approaches for Joints and Thruster Vectoring                              ║
 ║ · Lie theory for the roboticist                                                      ║
+║ · ICRA Paper Skimming (Half Done, except not published ones)                         ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 📆 Weekly Quests                                                                     ║
@@ -61,9 +62,8 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Today's Quests                                                                       ║
-║ · Read Bucki's PhD Thesis                                                            ║
-║ · ICRA Paper Skimming (Half Done, except not published ones                          ║
-║ · Spring Github check                                                                ║
+║ · Run Aerial Gym example code                                                        ║
+║ · Run Pegasus Simulator example code                                                 ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 
 ```
@@ -87,6 +87,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║ · Check Pegasus Framework                                                            ║
 ║ · Run RotorS on Ubuntu 18.04                                                         ║
 ║ · CIS5210 (Artificial Intelligence) Module 2                                         ║
+║ · Spring Github check                                                                ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
  ```
 </details>  
