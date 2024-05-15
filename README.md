@@ -62,7 +62,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Today's Quests                                                                       ║
 ║ · Read Bucki's PhD Thesis                                                            ║
-║ · ICRA Paper Skimming                                                                ║
+║ · ICRA Paper Skimming (Half Done, except not published ones                          ║
 ║ · Spring Github check                                                                ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 
