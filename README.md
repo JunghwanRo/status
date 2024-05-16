@@ -44,14 +44,11 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ ⏳ Priority Quests                                                                   ║
 ║ · Overleaf Outline                                                                   ║
-║ · Read Bucki's PhD Thesis                                                            ║
+║ · Read Bucki's PhD Thesis (Weekend?)                                                 ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 🎯 Side Quests                                                                       ║
-║ · Software Framework Selection                                                       ║
 ║ · Modeling Approaches for Joints and Thruster Vectoring                              ║
-║ · Lie theory for the roboticist                                                      ║
-║ · ICRA Paper Skimming (Half Done, except not published ones)                         ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 📆 Weekly Quests                                                                     ║
@@ -62,8 +59,8 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Today's Quests                                                                       ║
-║ · Run Aerial Gym example code                                                        ║
-║ · Run Pegasus Simulator example code                                                 ║
+║ · Omniverse running                                                                  ║
+║ · Aerial gym, closed kinematics chain                                                ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 
 ```
@@ -73,6 +70,11 @@ Dedicated Hours = Dedicated hours to robotics after status established
  
 ```plaintext
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
+║ · ICRA Paper Skimming (Half Done, except not published ones)                         ║
+║ · Lie theory for the roboticist                                                      ║
+║ · Software Framework Selection                                                       ║
+║ · Run Aerial Gym example code                                                        ║
+║ · Run Pegasus Simulator example code                                                 ║
 ║ · ICRA 2024 Paper check                                                              ║
 ║ · Draw a Gantt Chart for Master's Project                                            ║
 ║ · Read Geometric tracking control of a quadrotor UAV on SE(3)                        ║
