@@ -59,7 +59,6 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Today's Quests                                                                       ║
-║ · Omniverse running                                                                  ║
 ║ · Aerial gym, closed kinematics chain                                                ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 
@@ -70,6 +69,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
  
 ```plaintext
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
+║ · OmniDrone running                                                                  ║
 ║ · ICRA Paper Skimming (Half Done, except not published ones)                         ║
 ║ · Lie theory for the roboticist                                                      ║
 ║ · Software Framework Selection                                                       ║
