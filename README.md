@@ -16,7 +16,7 @@ Useful Letters...
 
 ```plaintext
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                              Junghwan Ro's Status Panel                              ║
+║                              Junghwan Ro's Status Panel                              ║ 
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Name            : Junghwan Ro                                                        ║
 ║ Class           : Robotics Challenger                                                ║
