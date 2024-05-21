@@ -59,10 +59,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Today's Quests                                                                       ║
-║ · Aerial gym framework structure                                                     ║
 ║ · Aerial gym add new drone model                                                     ║
-║ · OmniDrone framework structure                                                      ║
-║ · Read Servo Integrated Nonlinear Model Predictive Control for Overactuated TiltRotor║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 
 ```
@@ -72,6 +69,9 @@ Dedicated Hours = Dedicated hours to robotics after status established
  
 ```plaintext
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
+║ · OmniDrones framework structure                                                     ║
+║ · Read Servo Integrated Nonlinear Model Predictive Control for Overactuated TiltRotor║
+║ · Aerial gym framework structure                                                     ║
 ║ · CIS5210 (Artificial Intelligence) Module 3                                         ║
 ║ · OmniDrone running                                                                  ║
 ║ · ICRA Paper Skimming (Half Done, except not published ones)                         ║
