@@ -59,7 +59,9 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Today's Quests                                                                       ║
-║ · Aerial gym, closed kinematics chain                                                ║
+║ · Aerial gym framework structure                                                     ║
+║ · Aerial gym add new drone model                                                     ║
+║ · Read Servo Integrated Nonlinear Model Predictive Control for Overactuated TiltRotor║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 
 ```
