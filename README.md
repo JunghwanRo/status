@@ -69,6 +69,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
  
 ```plaintext
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
+║ · CIS5210 (Artificial Intelligence) Module 3                                         ║
 ║ · OmniDrone running                                                                  ║
 ║ · ICRA Paper Skimming (Half Done, except not published ones)                         ║
 ║ · Lie theory for the roboticist                                                      ║
