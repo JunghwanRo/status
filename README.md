@@ -70,7 +70,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ```plaintext
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
 ║ · OmniDrones framework structure                                                     ║
-║ · Read Servo Integrated Nonlinear Model Predictive Control for Overactuated TiltRotor║
+║ · Read Servo Integrated Nonlinear Model Predictive Control for Overactuated TiltRotor║ 
 ║ · Aerial gym framework structure                                                     ║
 ║ · CIS5210 (Artificial Intelligence) Module 3                                         ║
 ║ · OmniDrone running                                                                  ║
