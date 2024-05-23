@@ -38,8 +38,8 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║                                      Quest Panel                                     ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 🌟 Main Quests                                                                       ║
-║ · Master's Thesis                                                                    ║
-║ · PhD Application                                                                    ║
+║ · Thesis, Degree                                                                     ║
+║ · Secure a PhD Position with a very interesting project                              ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ ⏳ Priority Quests                                                                   ║
@@ -52,11 +52,14 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ 📆 Weekly Quests                                                                     ║
-║ · Weekly Update Meeting                                                              ║
+║ · Progress Review (Meeting, Writing included)                                        ║
+║ · Skill acquisition (Sat, ML/AI/Programming etc., whatever I want to learn)          ║
 ║ 🔅 Daily Quests                                                                      ║
 ║ · Literature review (>=1)                                                            ║
-║ · Morning meditation: 5 minutes of planning                                          ║
-║ · Evening meditation: 5 minutes of reviewing                                         ║
+║ · Morning meditation: 10 minutes of planning                                         ║
+║ · Evening meditation: 10 minutes of reviewing                                        ║
+║ · Study fundamentals (40 minutes, Commuting to work)                                 ║
+║ · Study Language     (40 minutes, Commuting to home)                                 ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Today's Quests                                                                       ║
