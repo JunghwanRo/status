@@ -54,12 +54,13 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║ 📆 Weekly Quests                                                                     ║
 ║ · Weekly Update Meeting                                                              ║
 ║ 🔅 Daily Quests                                                                      ║
-║ · At least one literature review                                                     ║
-║ · 5 minutes Meditation (Morning: Planning, Evening: Review)                          ║
+║ · Literature review (>=1)                                                            ║
+║ · Morning meditation: 5 minutes of planning                                          ║
+║ · Evening meditation: 5 minutes of reviewing                                         ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Today's Quests                                                                       ║
-║ · Aerial gym add new drone model                                                     ║
+║ · Aerial gym, add new drone model                                                    ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 
 ```
