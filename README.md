@@ -63,8 +63,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Today's Quests                                                                       ║
-║ · Aerial gym - Dev Ver. check                                                        ║
-║ · Aerial gym, add new drone model                                                    ║
+║ · Use fourbar drone for the test_att_controller.py                                   ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 
 ```
@@ -74,6 +73,8 @@ Dedicated Hours = Dedicated hours to robotics after status established
  
 ```plaintext
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
+║ · Generate fourbar drone USD                                                         ║
+║ · Aerial gym - Dev Ver. check                                                        ║
 ║ · OmniDrones framework structure                                                     ║
 ║ · Read Servo Integrated Nonlinear Model Predictive Control for Overactuated TiltRotor║ 
 ║ · Aerial gym framework structure                                                     ║
