@@ -64,7 +64,6 @@ Dedicated Hours = Dedicated hours to robotics after status established
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║ Today's Quests                                                                       ║
 ║ · Use fourbar drone for the test_att_controller.py                                   ║
-║ · CIS5210 (Artificial Intelligence) Module 4                                         ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 
 ```
@@ -74,6 +73,7 @@ Dedicated Hours = Dedicated hours to robotics after status established
  
 ```plaintext
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
+║ · CIS5210 (Artificial Intelligence) Module 4                                         ║
 ║ · Generate fourbar drone USD                                                         ║
 ║ · Aerial gym - Dev Ver. check                                                        ║
 ║ · OmniDrones framework structure                                                     ║
