@@ -1,6 +1,6 @@
 # 🚀 Junghwan Ro's Command Center 🚀
 
-I figured out that the previous version was more efficient... switching back to 
+
 ---
 
 <!-- 
@@ -12,6 +12,7 @@ Useful Letters...
 └ ─ ├
 -->
 
+I figured out that the previous version was more efficient... switching back to [TodayIResearched](https://github.com/JunghwanRo/TIR-TodayIResearched)
 
 ### 📊 Status Panel 🯅
 
