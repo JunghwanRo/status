@@ -1,5 +1,6 @@
 # 🚀 Junghwan Ro's Command Center 🚀
 
+I figured out that the previous version was more efficient... switching back to 
 ---
 
 <!-- 
